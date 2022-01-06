@@ -23,3 +23,26 @@
 - [ ] 13. Decode the string <a href="https://practice.geeksforgeeks.org/problems/decode-the-string2444/1">Link</a>
 - [ ] 14. Minimum Size Subarray Sum <a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a>
 - [ ] 15. Array Pair Sum Divisibility Problem <a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Link</a>
+<hr/>
+#### Day 6-10 :
+#### Company Name : Amazone Sheet
+<p align="center">Arsh Amazon Sheet :</p>
+<b>Offical Doc:- </b><a href="https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ2p7FRLs/edit"><strong>Explore the docs »</strong></a><br/>
+<b>Offical Video:- </b> <a href="https://www.youtube.com/watch?v=4ZBKj3ioGjY"><strong>Explore the Video »</strong></a><br/>
+<br/>
+
+- [ ] 1.Calculating Maximum Profit (Multiple Ladders Question)<a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1">Link</a>
+- [ ] 2.Longest Mountain <a href="https://leetcode.com/problems/longest-mountain-in-array/">Link</a>
+- [ ] 3.IPL 2021 - Match Day 2 (similar to maximum in subarray)<a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/">Link</a>
+- [ ] 4.Brackets in Matrix Chain Multiplication <a href="https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/">Link</a>
+- [ ] 5.Phone directory (Question similar to this based on Amazon Pay as a service)<a href="https://practice.geeksforgeeks.org/problems/phone-directory4628/1/">Link</a>
+- [ ] 6.Maximum of all subarrays of size k<a href="https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1">Link</a>
+- [ ] 7.First non-repeating character in a stream<a href="https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1">Link</a>
+- [ ] 8.Count ways to N'th Stair(Order does not matter)<a href="https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/">Link</a>
+- [ ] 9.Which among them forms a perfect Sudoku Pattern ?<a href="https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/">Link</a>
+- [ ] 10.Nuts and Bolts Problem<a href="https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1">Link</a>
+- [ ] 11.Tree Serialization and Deserialization<a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Link</a>
+- [ ] 12.Column name from a given column number<a href="https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/">Link</a>
+- [ ] 13.Rotten Oranges -Multiple Repetitions<a href="https://leetcode.com/problems/rotting-oranges/">Link</a>
+- [ ] 14.Tree Burning <a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Link</a>
+- [ ] 15. Delete N nodes after M nodes of a linked list <a href="https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/">Link</a>
