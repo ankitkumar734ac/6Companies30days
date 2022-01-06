@@ -1,6 +1,10 @@
 #ReviseWithArsh #6Companies30Days #ArshGoyal
 
 # #ReviseWithArsh #6Companies30Days Challenge!
+
+[![ReviseWithArsh](https://img.shields.io/badge/Language-JAVA-934fb5?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ankitkumar734ac/6Companies30days)
+[![ReviseWithArsh](https://img.shields.io/badge/ReviseWithArsh-6Companies30Days-green?style=for-the-badge&logo=github)](https://github.com/ankitkumar734ac/6Companies30days)
+
 <b>Offical Doc:- </b><a href="https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub"><strong>Explore the docs »</strong></a><br/>
 <b>Offical Video:- </b> <a href="https://www.youtube.com/watch?v=8ESo_bXhRC4&ab_channel=ArshGoyal"><strong>Explore the Video »</strong></a><br/>
 <hr/>
