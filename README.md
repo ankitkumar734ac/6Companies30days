@@ -1,9 +1,10 @@
-#ReviseWithArsh #6Companies30Days ArshGoyal
+#ReviseWithArsh #6Companies30Days #ArshGoyal
 
 # #ReviseWithArsh #6Companies30Days Challenge!
 <b>Offical Doc:- </b><a href="https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub"><strong>Explore the docs »</strong></a><br/>
 <b>Offical Video:- </b> <a href="https://www.youtube.com/watch?v=8ESo_bXhRC4&ab_channel=ArshGoyal"><strong>Explore the Video »</strong></a><br/>
 <hr/>
+<b><h2 align="center">Arsh Goldman Sachs Sheet :</h2></b>
 
 #### Day 1-5 :
 #### Company Name : Goldman Sachs
@@ -24,9 +25,11 @@
 - [ ] 14. Minimum Size Subarray Sum <a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a>
 - [ ] 15. Array Pair Sum Divisibility Problem <a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Link</a>
 <hr/>
+<b><h2 align="center">Arsh Amazon Sheet :</h2></b>
+
 #### Day 6-10 :
-#### Company Name : Amazone Sheet
-<p align="center">Arsh Amazon Sheet :</p>
+#### Company Name : Amazon
+
 <b>Offical Doc:- </b><a href="https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ2p7FRLs/edit"><strong>Explore the docs »</strong></a><br/>
 <b>Offical Video:- </b> <a href="https://www.youtube.com/watch?v=4ZBKj3ioGjY"><strong>Explore the Video »</strong></a><br/>
 <br/>
