@@ -48,9 +48,9 @@
 :white_check_mark: 7.First non-repeating character in a stream<a href="https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1">Link</a><br>
 :white_check_mark: 8.Count ways to N'th Stair(Order does not matter)<a href="https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/">Link</a><br>
 :white_check_mark: 9.Which among them forms a perfect Sudoku Pattern ?<a href="https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/">Link</a><br>
-- [ ] 10.Nuts and Bolts Problem<a href="https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1">Link</a>
-- [ ] 11.Tree Serialization and Deserialization<a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Link</a>
-- [ ] 12.Column name from a given column number<a href="https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/">Link</a>
-- [ ] 13.Rotten Oranges -Multiple Repetitions<a href="https://leetcode.com/problems/rotting-oranges/">Link</a>
-- [ ] 14.Tree Burning <a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Link</a>
-- [ ] 15. Delete N nodes after M nodes of a linked list <a href="https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/">Link</a>
+:white_check_mark: 10.Nuts and Bolts Problem<a href="https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1">Link</a><br>
+:white_check_mark:11.Tree Serialization and Deserialization<a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Link</a><br>
+:white_check_mark: 12.Column name from a given column number<a href="https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/">Link</a><br>
+:white_check_mark: 13.Rotten Oranges -Multiple Repetitions<a href="https://leetcode.com/problems/rotting-oranges/">Link</a><br>
+:white_check_mark: 14.Tree Burning <a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Link</a><br>
+:white_check_mark: 15. Delete N nodes after M nodes of a linked list <a href="https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/">Link</a><br>
